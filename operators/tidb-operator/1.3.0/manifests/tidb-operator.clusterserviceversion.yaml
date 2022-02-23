@@ -86,7 +86,7 @@ spec:
 
   maturity: stable
   version: v1.3.0
-  replaces: ''
+  replaces: v1.1.6
   skips: []
   minKubeVersion: '1.18.0'
   keywords: []
