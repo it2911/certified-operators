@@ -86,7 +86,6 @@ spec:
 
   maturity: stable
   version: 1.3.0
-  replaces: 1.1.6
   skips: []
   minKubeVersion: '1.18.0'
   keywords: []
